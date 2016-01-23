@@ -1,4 +1,4 @@
 # Simple SQL Engine
 This is a semester long project with 3 checkpoint, the detail instrction is under doc/. CP1 need to complete the basic SQL function, and CP2 need to optimize the engine in time and space. CP3 need to optimize the engine in time to deal with some trickier case.
 
-Three checkpoint is in there corresponding branch.
+Three checkpoint is in their corresponding branch.
